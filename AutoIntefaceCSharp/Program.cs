@@ -57,6 +57,7 @@ namespace AutoIntefaceCSharp
         {
 
             List<IAuto> list = new List<IAuto>();
+            //asdas
 
             list.Add(new Porsche(123));
             list.Add(new Tesla(214));
